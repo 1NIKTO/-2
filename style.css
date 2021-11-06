@@ -1,0 +1,78 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  height: 1200px;
+}
+.header {
+  position: fixed;
+  width: 100vw;
+  background-color: #000000;
+  height: 70px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.header {
+  position: fixed;
+  width: 100vw;
+  background-color: #000000;
+  height: 70px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+a {
+  text-decoration: none;
+  margin-left: 50px;
+}
+
+header img {
+  width: 86px;
+}
+
+.in {
+  border-radius: 15px;
+  padding: 9px;
+  background-color: rgb(128, 21, 21);
+  border: none;
+}
+
+a:hover {
+  color: rgb(255, 255, 255);
+}
+
+.main-section {
+  background: url("../images/1618508133_43-funart_pro-p-oboi-fon-strashnii-fon-44.jpg");
+  height: 100vh;
+  background-attachment: fixed;
+}
+.gh {
+  color: mediumblue;
+  border-radius: 15px;
+  padding: 9px;
+  background-color: rgb(245, 62, 62);
+  border: none;
+}
+.gj {
+  color: cyan;
+  border-radius: 15px;
+  padding: 9px;
+  background-color: rgb(59, 50, 187);
+  border: none;
+}
+.gy {
+  color: coral;
+  border-radius: 15px;
+  padding: 9px;
+  background-color: rgb(60, 245, 245);
+  border: none;
+}
+.gt {
+  color: aqua;
+  border-radius: 20px;
+  padding: 7px;
+  background-color: rgb(211, 231, 33);
+  border: none;
+}
